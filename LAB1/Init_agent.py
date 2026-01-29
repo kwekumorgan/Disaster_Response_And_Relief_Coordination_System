@@ -42,7 +42,7 @@ async def main():
     
     # Wait for 6 seconds while the agent runs
    
-    print("Agent is running...")
+    print("Agent is running....")
     await asyncio.sleep(6)
     
     # Stop the agent
